@@ -1,14 +1,12 @@
-# ModestCoders Dockerfiles
+# Kybik911 Dockerfiles
 
 A collection of dockerfiles to generate docker images for our projects.
 
-* Dockerhub Repo: [https://hub.docker.com/u/modestcoders/](https://hub.docker.com/u/modestcoders/)
+* Dockerhub Repo: [https://hub.docker.com/u/ruslandovnar/](https://hub.docker.com/u/ruslandovnar/)
 
 ## Developers
 
-* [Daniel Lozano](https://github.com/danielozano)
-* [Juan Alonso](https://github.com/jalogut)
-* [Contributors](https://github.com/ModestCoders/magento2-dockergento/graphs/contributors)
+* [Ruslan Dovnar]
 
 ## Licence
 
